@@ -72,7 +72,7 @@ function buildCharts(sample) {
     var labels = result.otu_labels.slice(0, 10).reverse();
     var values = result.sample_values.slice(0, 10).reverse();
 
-    var bubbleLabels = result.otu.labels;
+    var bubbleLabels = result.otu_labels;
     var bubbleValues = result.sample_values;
 
 
