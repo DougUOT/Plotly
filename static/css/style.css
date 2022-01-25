@@ -1,0 +1,11 @@
+body {
+
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+.jumbotron {
+    background-image: url("https://2qujdx3q4ph33s50lz2ugpgt-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/AdobeStock_169640048-scaled.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}
