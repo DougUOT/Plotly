@@ -81,7 +81,7 @@ Using a filter such as 952, see below that the bar, bubble and gauge chart are w
   
 ![](https://github.com/DougUOT/Plotly/blob/main/Resources/Images/Capture3_3.PNG)
 
-Another filter, for example, using the ID: 952, see below that the bar, bubble and gauge chart are working correctly, also the dashboard is connected and interactive according as selected by the user.
+Another filter, for example, using the ID: 962, see below that the bar, bubble and gauge chart are working correctly, also the dashboard is connected and interactive according as selected by the user.
  
 ![](https://github.com/DougUOT/Plotly/blob/main/Resources/Images/Capture3_4.PNG)
   
