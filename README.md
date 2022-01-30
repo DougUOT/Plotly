@@ -1,11 +1,11 @@
 # Plotly
-Build an interactive dashboard using Plotly.js to explore data on the biodiversity of belly buttons and then deploy the dashboard to a cloud server.
+Build an interactive dashboard using Plotly.js to explore the biodiversity of belly buttons data and then deploy the dashboard to a cloud server.
 
 ## Overview of Project
 
 In this module, we will create data visualizations for the web. In order to interact with data, our audience usually needs to have Python installed on their computer. In this module, we will use JavaScript to create data visualizations that are attractive, accessible, and interactive. We will use Plotly, a JavaScript data visualization library. We will also build our JavaScript foundation to manipulate pass and transform data. We will use javascript to create interactive features such as buttons and dropdown menus and retrieve data from external sources like .csv files and API. To the end, we will deploy a polished data visualization to the web.
 
-This assignment is related to the Bootcamp Data Analytics from the University of Toronto and comprises the goals below for this module: 
+This assignment is related to the Bootcamp Data Analytics from the University of Toronto. It comprises the goals below for this module:: 
 
 Follow below the goals for this module:
 
@@ -77,11 +77,11 @@ Follow below the goals for this module:
   
 ![](https://github.com/DougUOT/Plotly/blob/main/Resources/Images/Capture3_2.PNG)
 
-Using a filter such as 952, see below that the bar, bubble and gauge chart are working correctly, also the dashboard is connected and interactive according as selected by the user.
+Using a filter such as 952, see below that the bar, bubble, and gauge chart are working correctly; the dashboard is connected and interactive according as selected by the user.
   
 ![](https://github.com/DougUOT/Plotly/blob/main/Resources/Images/Capture3_3.PNG)
 
-Another filter, for example, using the ID: 962, see below that the bar, bubble and gauge chart are working correctly, also the dashboard is connected and interactive according as selected by the user.
+Another filter, for example, using the ID: 962, see below that the bar, bubble and gauge chart are working correctly; also the dashboard is connected and interactive according as selected by the user.
  
 ![](https://github.com/DougUOT/Plotly/blob/main/Resources/Images/Capture3_4.PNG)
   
