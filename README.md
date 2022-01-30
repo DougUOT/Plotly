@@ -92,6 +92,9 @@ Another filter, for example, using the ID: 962, see below that the bar, bubble a
   
 ![](https://github.com/DougUOT/Plotly/blob/main/Resources/Images/Capture4_1.PNG)
 ![](https://github.com/DougUOT/Plotly/blob/main/Resources/Images/Capture4_2.PNG)
+   
+Make the webpage mobile-responsive, the image below showing the dimensions related to the Samsung Galaxy S8+
+
 ![](https://github.com/DougUOT/Plotly/blob/main/Resources/Images/Capture4_3.PNG)
 
 ## Summary
