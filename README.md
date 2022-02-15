@@ -3,11 +3,9 @@ Build an interactive dashboard using Plotly.js to explore the biodiversity of be
 
 ## Overview of Project
 
-In this module, we will create data visualizations for the web. In order to interact with data, our audience usually needs to have Python installed on their computer. In this module, we will use JavaScript to create data visualizations that are attractive, accessible, and interactive. We will use Plotly, a JavaScript data visualization library. We will also build our JavaScript foundation to manipulate pass and transform data. We will use javascript to create interactive features such as buttons and dropdown menus and retrieve data from external sources like .csv files and API. To the end, we will deploy a polished data visualization to the web.
+In this project, we will create data visualizations for the web. In order to interact with data, our audience usually needs to have Python installed on their computer. In this project, we will use JavaScript to create data visualizations that are attractive, accessible, and interactive. We will use Plotly, a JavaScript data visualization library. We will also build our JavaScript foundation to manipulate pass and transform data. We will use javascript to create interactive features such as buttons and dropdown menus and retrieve data from external sources like .csv files and API. To the end, we will deploy a polished data visualization to the web.
 
-This assignment is related to the Bootcamp Data Analytics from the University of Toronto. It comprises the goals below for this module:: 
-
-Follow below the goals for this module:
+Follow below the goals for this project:
 
 1) Objective 1: Create a Horizontal Bar Chart
 2) Objective 2: Create a Bubble Chart
